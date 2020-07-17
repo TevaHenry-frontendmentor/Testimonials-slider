@@ -125,7 +125,7 @@ body {
 @media (min-width: 1000px) {
   body {
     flex-direction: row-reverse;
-    padding: 0 100px;
+    padding: 0 100px 100px 100px;
   }
 
   .hero {
@@ -162,7 +162,7 @@ body {
     width: 44%;
     position: absolute;
     left: calc(100px + 5vw);
-    top: 37%;
+    top: 33%;
   }
 
   .testimonial-text > p:last-child {
